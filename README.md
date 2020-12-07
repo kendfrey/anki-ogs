@@ -37,7 +37,7 @@ This part lets you download puzzle collections directly from the OGS website, so
 
 - Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension.
 - Install [exporter.user.js](exporter.user.js) into Tampermonkey.
-	- In the Tampermonkey extension settings, open the Utilities tab. You can use "Install from URL" and the above link.
+	- On the page for that file, click the "Raw" button and Tampermonkey will offer to install it.
 
 ### Usage
 
