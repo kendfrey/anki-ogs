@@ -1,0 +1,16 @@
+.card
+{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: black;
+	background-color: white;
+}
+iframe
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
